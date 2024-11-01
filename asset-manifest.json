@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.db7ceceb.css",
-    "main.js": "/static/js/main.e4a18073.js",
-    "static/js/453.1c0131a8.chunk.js": "/static/js/453.1c0131a8.chunk.js",
-    "index.html": "/index.html",
-    "main.db7ceceb.css.map": "/static/css/main.db7ceceb.css.map",
-    "main.e4a18073.js.map": "/static/js/main.e4a18073.js.map",
-    "453.1c0131a8.chunk.js.map": "/static/js/453.1c0131a8.chunk.js.map"
+    "main.css": "/portobello-quiz/static/css/main.db7ceceb.css",
+    "main.js": "/portobello-quiz/static/js/main.179a4d9f.js",
+    "static/js/453.1c0131a8.chunk.js": "/portobello-quiz/static/js/453.1c0131a8.chunk.js",
+    "index.html": "/portobello-quiz/index.html",
+    "main.db7ceceb.css.map": "/portobello-quiz/static/css/main.db7ceceb.css.map",
+    "main.179a4d9f.js.map": "/portobello-quiz/static/js/main.179a4d9f.js.map",
+    "453.1c0131a8.chunk.js.map": "/portobello-quiz/static/js/453.1c0131a8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.db7ceceb.css",
-    "static/js/main.e4a18073.js"
+    "static/js/main.179a4d9f.js"
   ]
 }
