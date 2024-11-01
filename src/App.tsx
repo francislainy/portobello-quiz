@@ -5,7 +5,7 @@ import './App.css';
 // Sample questions about friends, now with optional images
 const questions = [
   {
-    question: "Who is unsure about the difference between a chicken and a dinosaur?",
+    question: "Who needs to be told the difference between a chicken and a dinosaur?",
     options: ["Jodi", "Jade", "Sarah", "James"],
     correctAnswer: "Jodi"
   },
