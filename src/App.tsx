@@ -247,7 +247,7 @@ export default function ImageFriendQuiz() {
       <div className="min-h-screen bg-purple-100 flex items-center justify-center p-4">
         <div className="w-full max-w-md bg-white shadow-xl rounded-lg p-6">
           <h2 className="text-2xl font-bold text-purple-800 text-center mb-6">
-            {quizCompleted ? "Quiz Completed!" : "Friend Quiz"}
+            {quizCompleted ? "Quiz Completed!" : "Friends Quiz"}
           </h2>
           {!quizCompleted ? (
               <>
