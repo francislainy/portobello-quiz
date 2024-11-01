@@ -214,12 +214,6 @@ const questions = [
     options: ["Elsa", "Meline", "Fran", "Samyra"],
     correctAnswer: "Fran"
   },
-  // {
-  //   question: "Who is this child?",
-  //   image: "/placeholder.svg?height=300&width=300",
-  //   options: ["Lisa", "Tom", "Rachel", "Chris"],
-  //   correctAnswer: "Rachel"
-  // }
 ]
 
 export default function ImageFriendQuiz() {
@@ -259,17 +253,6 @@ export default function ImageFriendQuiz() {
                 <p className="text-lg font-medium text-purple-700 mb-4">
                   {questions[currentQuestion].question}
                 </p>
-                {questions[currentQuestion].image && (
-                    <div className="mb-4 flex justify-center">
-                      {/*<Image*/}
-                      {/*    src={questions[currentQuestion].image}*/}
-                      {/*    alt={`Image for question ${currentQuestion + 1}`}*/}
-                      {/*    width={300}*/}
-                      {/*    height={300}*/}
-                      {/*    className="rounded-lg"*/}
-                      {/*/>*/}
-                    </div>
-                )}
                 <div className="space-y-3">
                   {questions[currentQuestion].options.map((option) => (
                       <label key={option} className="flex items-center space-x-2 cursor-pointer">
