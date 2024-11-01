@@ -47,7 +47,7 @@ const questions = [
   {
     question: "Who likes painting wildlife?",
     options: ["Emily", "Sarah", "Lola", "Confidence"],
-    correctAnswer: "Emma"
+    correctAnswer: "Sarah"
   },
   {
     question: "Who is 29 as most people of his age?",
@@ -90,9 +90,14 @@ const questions = [
     correctAnswer: "Fran"
   },
   {
-    question: "Who likes Endless possibility?",
+    question: "Who likes Endless Possibilities?",
     options: ["Mira", "Martin", "Yol", "Federica"],
     correctAnswer: "Federica"
+  },
+  {
+    question: "Who likes to cook?",
+    options: ["Jade", "Meline", "Elsa", "Lilia"],
+    correctAnswer: "Jade"
   },
   {
     question: "Who likes high waisted trousers?",
@@ -170,11 +175,6 @@ const questions = [
     correctAnswer: "Janis"
   },
   {
-    question: "Who likes to cook?",
-    options: ["Jade", "Meline", "Elsa", "Lilia"],
-    correctAnswer: "Jade"
-  },
-  {
     question: "Who likes vintage clothes?",
     options: ["Confidence", "Jade", "Emily", "Lilia"],
     correctAnswer: "Jade"
@@ -207,14 +207,19 @@ const questions = [
   {
     question: "Who is just an ordinary man who enjoys a conversation in a pub?",
     options: ["Fran", "Janis", "Federica", "Domingos"],
-    correctAnswer: "Tiffany"
+    correctAnswer: "Domingos"
   },
   {
-    question: "Who is this child?",
-    image: "/placeholder.svg?height=300&width=300",
-    options: ["Lisa", "Tom", "Rachel", "Chris"],
-    correctAnswer: "Rachel"
-  }
+    question: "Who likes K-Pop?",
+    options: ["Elsa", "Meline", "Fran", "Samyra"],
+    correctAnswer: "Fran"
+  },
+  // {
+  //   question: "Who is this child?",
+  //   image: "/placeholder.svg?height=300&width=300",
+  //   options: ["Lisa", "Tom", "Rachel", "Chris"],
+  //   correctAnswer: "Rachel"
+  // }
 ]
 
 export default function ImageFriendQuiz() {
