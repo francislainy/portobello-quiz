@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/portobello-quiz/static/css/main.db7ceceb.css",
-    "main.js": "/portobello-quiz/static/js/main.23c6322c.js",
+    "main.js": "/portobello-quiz/static/js/main.493c430d.js",
     "static/js/453.1c0131a8.chunk.js": "/portobello-quiz/static/js/453.1c0131a8.chunk.js",
     "index.html": "/portobello-quiz/index.html",
     "main.db7ceceb.css.map": "/portobello-quiz/static/css/main.db7ceceb.css.map",
-    "main.23c6322c.js.map": "/portobello-quiz/static/js/main.23c6322c.js.map",
+    "main.493c430d.js.map": "/portobello-quiz/static/js/main.493c430d.js.map",
     "453.1c0131a8.chunk.js.map": "/portobello-quiz/static/js/453.1c0131a8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.db7ceceb.css",
-    "static/js/main.23c6322c.js"
+    "static/js/main.493c430d.js"
   ]
 }
