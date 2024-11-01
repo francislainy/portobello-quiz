@@ -175,11 +175,6 @@ const questions = [
     correctAnswer: "Jade"
   },
   {
-    question: "Who likes brewing coffee to cook?",
-    options: ["Domingos", "James", "Sediye", "Jade"],
-    correctAnswer: "Jade"
-  },
-  {
     question: "Who likes vintage clothes?",
     options: ["Confidence", "Jade", "Emily", "Lilia"],
     correctAnswer: "Jade"
@@ -193,6 +188,11 @@ const questions = [
     question: "Who likes playing monopoly?",
     options: ["Rebecca", "Fran", "Yol", "Laura"],
     correctAnswer: "Rebecca"
+  },
+  {
+    question: "Who likes brewing coffee?",
+    options: ["Domingos", "James", "Sediye", "Jade"],
+    correctAnswer: "Jade"
   },
   {
     question: "Who speaks 6 languages?",
